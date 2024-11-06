@@ -1,0 +1,5 @@
+set greeting1 "Hello World!"
+set greeting2 "Goodbye World!"
+
+print greeting1
+print greeting2
